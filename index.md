@@ -5,12 +5,11 @@ layout: default
 
 Welcome to the official webpage for the 2023-24 VEX IQ team Abaddon!
 
-To contact us, call (+44) 07471962158, or email verahua15@gmail.com
-
-[Link to another page](./another-page.html).
+To contact us, call (+44) 07471962158, or email verahua15@gmail.com.
 
 
-# Header 1
+
+# Meet the team!
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
