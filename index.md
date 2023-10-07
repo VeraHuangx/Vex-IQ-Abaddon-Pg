@@ -2,15 +2,12 @@
 layout: default
 ---
 
-Vex-IQ-Abaddon
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to the official webpage for the 2023-24 VEX IQ team Abaddon!
+
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
