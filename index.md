@@ -5,7 +5,7 @@ layout: default
 
 **Welcome to the official webpage for the 2023-24 VEX IQ team Abaddon!**
 
-We designed this webpage as a way to further connect with our competition, judges and even our own team members! We will update this webpage with info on the competitions we are attending, group updates and maybe even top-secret bot pictures... 
+We designed this webpage as a way to further connect with our competition, judges and even our own team members! We will update this webpage with info on the competitions we are attending, group updates and maybe even top-secret bot pictures... This will be a good way to keep the HBS Abaddon legacy for years to come, and share our experiences with future VEX IQ teams. 
 
 
 # Meet the team!
