@@ -3,9 +3,7 @@ layout: default
 ---
 
 
-Welcome to the official webpage for the 2023-24 VEX IQ team Abaddon!
-
-To contact us, call (+44) 07471962158, or email verahua15@gmail.com.
+*Welcome to the official webpage for the 2023-24 VEX IQ team Abaddon!*
 
 
 
