@@ -10,7 +10,9 @@ We designed this webpage as a way to further connect with our competition, judge
 
 # Meet the team!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Vera is the team leader, and often likes to think she knows what she's doing. She plays the guzheng, does ballet, could eat pho 24/7 and wants to be a game dev when she grows up.
+
+Gabby is one of the programmers. She plays the piano, violin, organ, drums and guitar and lives to drink bubble tea and read books.
 
 ## Header 2
 
