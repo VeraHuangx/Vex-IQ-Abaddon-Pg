@@ -10,9 +10,9 @@ We designed this webpage as a way to further connect with our competition, judge
 
 # Meet the team!
 
-Vera is the team leader, and often likes to think she knows what she's doing. She plays the guzheng, does ballet, could eat pho 24/7 and wants to be a game dev when she grows up.
+*Vera* is the team leader, and often likes to think she knows what she's doing. She plays the guzheng, does ballet, could eat pho 24/7 and wants to be a game dev when she grows up.
 
-Gabby is one of the programmers. She plays the piano, violin, organ, drums and guitar and lives to drink bubble tea and read books.
+*Gabby* is one of the programmers. She plays the piano, violin, organ, drums and guitar and lives to drink bubble tea and read books.
 
 ## Header 2
 
