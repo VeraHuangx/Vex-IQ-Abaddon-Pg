@@ -10,9 +10,15 @@ We designed this webpage as a way to further connect with our competition, judge
 
 # Meet the team!
 
-*Vera* is the team leader, and often likes to think she knows what she's doing. She plays the guzheng, does ballet, could eat pho 24/7 and wants to be a game dev when she grows up.
+**Vera** is the team leader, and often likes to think she knows what she's doing. She plays the guzheng, does ballet, could eat pho 24/7 and wants to be a game dev when she grows up.
 
-*Gabby* is one of the programmers. She plays the piano, violin, organ, drums and guitar and lives to drink bubble tea and read books.
+**Gabby** is one of the programmers. She plays the piano, violin, organ, drums and guitar and lives to drink bubble tea and read books.
+
+**Anjali** is one of the builders. She plays cricket, badminton, netball, the piano and the clarinet. She loves to go shopping with her friends.
+
+**Erika** is one of the programmers. She likes dancing and singing and has a travel blog of YouTube. She listens to music 24/7. 
+
+**Isabel** is the designer. She loves to play the piano. She is obsessed with car and loves anything to do with mechanics.
 
 ## Header 2
 
