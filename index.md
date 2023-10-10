@@ -20,11 +20,15 @@ We designed this webpage as a way to further connect with our competition, judge
 
 **Isabel** is the designer. She loves to play the piano. She is obsessed with car and loves anything to do with mechanics.
 
+
+
 ## Header 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+
 
 ### Header 3
 
