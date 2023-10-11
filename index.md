@@ -22,9 +22,9 @@ We designed this webpage as a way to further connect with our competition, judge
 
 
 
-## Why are we - definitely - the best team ever?
+## Why are we - definitely - the best VEX IQ team there is?
 
-> This is a blockquote following a header.
+> It's a pretty bold claim right? Reading this and getting to know us for the first time, this must come off as a very skeptical, false piece of information, but, although it seems unlikely, we can assure you, it's true.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
