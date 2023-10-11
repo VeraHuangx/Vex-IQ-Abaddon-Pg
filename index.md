@@ -22,11 +22,13 @@ We designed this webpage as a way to further connect with our competition, judge
 
 
 
-## Why are we - definitely - the best VEX IQ team there is?
+## Why are we a successful VEX IQ team?
 
 > It's a pretty bold claim right? Reading this and getting to know us for the first time, this must come off as a very skeptical, false piece of information, but, although it seems unlikely, we can assure you, it's true.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> When the VEX team was gathered in year 7, out of more than 80 kids, only 12 were chosen through a pretty brutal round of elimination  based on the skills of the role you signed up for. Following this was also a pretty nerve-racking interview which I'm sure everyone was terrified of. The few people that were picked from the eager girls in our school were *made* for the job they got.
+>
+> When we started the season, we were a little bit behind. Getting to know each other, fiddling with CAD, it was never easy. The girls in HBS were and still are always busy, dealing with clubs, networking, and trying to discreetly cut in the line during lunchtime. One person had a totally different agenda to the next person, and many sacrifices were made to sustain the performance of the team. As well as this, we faced many obstacles on the way.   
 
 
 
