@@ -22,7 +22,7 @@ We designed this webpage as a way to further connect with our competition, judge
 
 
 
-## Header 2
+## Why are we - definitely - the best team ever?
 
 > This is a blockquote following a header.
 >
