@@ -18,7 +18,7 @@ We designed this webpage as a way to further connect with our competition, judge
 
 **Erika** is one of the programmers. She likes dancing and singing and has a travel blog of YouTube. She listens to music 24/7. 
 
-**Isabel** is the designer. She loves to play the piano. She is obsessed with car and loves anything to do with mechanics.
+**Isabel** is the designer. She loves to play the piano. She is obsessed with cars and loves anything to do with mechanics.
 
 
 
@@ -30,7 +30,9 @@ We designed this webpage as a way to further connect with our competition, judge
 >
 > When we started the season, we were a little bit behind. Getting to know each other, fiddling with CAD, it was never easy. The girls in HBS were and still are always busy, dealing with clubs, networking, and trying to discreetly cut in the line during lunchtime. One person had a totally different agenda to the next person, and many sacrifices were made to sustain the performance of the team. As well as this, we faced many obstacles on the way.
 >
-> CADing was never an easy topic for us to handle. We struggled a lot trying to find a useful website or app that could provide a simple yet efficient way to CAD. Under the guidance of year 10s, we managed to find a few helpful methods and websites, but none of them really worked out due to file transfer issues, problems with loading, and/or the inability to share projects.  
+> CADing was never an easy topic for us to handle. We struggled a lot trying to find a useful website or app that could provide a simple yet efficient way to CAD. Under the guidance of year 10s, we managed to find a few helpful methods and websites, but none of them really worked out due to file transfer issues, problems with loading, and/or the inability to share projects. Eventually, however, we found an application that worked and we created our final bot design!
+>
+> Our team has worked really hard this year, and our efficiency and cooperation has ensured that we have built a robot that (we hope) could get us to the Worlds!
 
 
 
